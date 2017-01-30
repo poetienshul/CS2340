@@ -30,10 +30,17 @@ public class Person1 {
 	 * @return the modified string
 	 */
 	private String calc(String input) {
+		// check if GH is working
 	  //Person 1 put your implementation here
-	  return null;
+		String newinput = "";
+		for (int i = 2; i < input.length(); i++) {
+			newinput = newinput + input.charAt(i);
+		}
+		newinput = newinput + input.charAt(0);
+		newinput = newinput + input.charAt(1);
+		return newinput;
 	}
-	
+
 	/**
 	 * Return a string rep of this object
 	 * that varies with an input string
@@ -45,5 +52,4 @@ public class Person1 {
 	public String toString(String input) {
 	  return name + calc(input);
 	}
-
 }
