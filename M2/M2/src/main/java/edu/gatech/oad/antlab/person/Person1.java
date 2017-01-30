@@ -40,7 +40,7 @@ public class Person1 {
 		newinput = newinput + input.charAt(1);
 		return newinput;
 	}
-	
+
 	/**
 	 * Return a string rep of this object
 	 * that varies with an input string
