@@ -2,7 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="869206ec-210f-46d9-8d3d-828f7ff2493f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/.gradle/2.12/taskArtifacts/cache.properties.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/.gradle/2.12/taskArtifacts/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/.gradle/2.12/taskArtifacts/fileSnapshots.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/.gradle/2.12/taskArtifacts/outputFileStates.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/.gradle/2.12/taskArtifacts/taskArtifacts.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/person/Person1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/person/Person2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/person/Person3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/person/Person4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/person/Person5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/pkg1/AntLab11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/pkg1/AntLab12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/pkg1/AntLabMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/pkg2/AntLab21.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/classes/main/edu/gatech/oad/antlab/pkg2/AntLab22.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/libs/M2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IntelliLang.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/.gradle/2.12/taskArtifacts/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/build/tmp/jar/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/qyu48.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/M2/M2/src/main/main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_mac/git.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_mac/keymap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_mac/laf.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/androidStudioFirstRun.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/debugger.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/diff.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/editor.codeinsight.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/github_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.run.settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inspection/Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdk.table.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ui.lnf.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-browsers.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person1.java" afterPath="$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person1.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person2.java" afterPath="$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person5.java" afterPath="$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person5.java" />
     </list>
     <ignored path="CS2340.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +75,7 @@
       <file leaf-file-name="Person2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="105">
               <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding />
             </state>
@@ -47,7 +85,7 @@
       <file leaf-file-name="Person3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="330">
               <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
               <folding />
             </state>
@@ -57,7 +95,7 @@
       <file leaf-file-name="Person4.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="150">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
@@ -126,18 +164,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView">
-        <subPane />
-      </pane>
       <pane id="ProjectPane">
         <subPane />
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Changed Files" />
         <subPane subId="Project Files" />
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -479,8 +517,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5154885" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.48451152" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -488,8 +526,8 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24543288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24861" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -912,7 +950,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="150">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
@@ -920,7 +958,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="330">
           <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           <folding />
         </state>
@@ -928,7 +966,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/M2/M2/src/main/java/edu/gatech/oad/antlab/person/Person2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="105">
           <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding />
         </state>
