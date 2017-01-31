@@ -1,3 +1,1 @@
-Winston Li
-wzli98@gmail.com  
-OG
+some useless info that we will delete.

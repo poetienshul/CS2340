@@ -1,3 +1,1 @@
-Sereym Baek
-sereymbaek@gatech.edu
-sbaek67
+some useless info that we will delete.

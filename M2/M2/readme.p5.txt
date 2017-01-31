@@ -1,3 +1,1 @@
-Chengliang Feng
-cfeng46@gatech.edu
-cfeng46
+some useless info that we will delete.

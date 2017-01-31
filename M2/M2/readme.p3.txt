@@ -1,3 +1,1 @@
-Ethan Tien
-etien3@gatech.edu
-etien3
+some useless info that we will delete.
