@@ -31,21 +31,21 @@ public class Person5 {
 	 */
 	private String calc(String input) {
 	  //Person 5 put your implementation here
-	    String ans = "";
-		for (int i = 2; i < input.length(); i++) {
-			ans = ans + input.charAt(i);
-		}
-		ans = ans + input.charAt(0);
-		ans = ans + input.charAt(1);
-		return ans;
+          String ans = "";
+          for (int i = 2; i < input.length(); i++) {
+              ans = ans + input.charAt(i);
+          }
+          ans = ans + input.charAt(0);
+          ans = ans + input.charAt(1);
+          return ans;
 	}
-	
+
 	/**
 	 * Return a string rep of this object
 	 * that varies with an input string
 	 *
 	 * @param input the varying string
-	 * @return the string representing the 
+	 * @return the string representing the
 	 *         object
 	 */
 	public String toString(String input) {
