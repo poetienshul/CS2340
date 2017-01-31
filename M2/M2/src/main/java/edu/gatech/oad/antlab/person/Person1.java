@@ -32,13 +32,7 @@ public class Person1 {
 	private String calc(String input) {
 		// check if GH is working
 	  //Person 1 put your implementation here
-		String newinput = "";
-		for (int i = 2; i < input.length(); i++) {
-			newinput = newinput + input.charAt(i);
-		}
-		newinput = newinput + input.charAt(0);
-		newinput = newinput + input.charAt(1);
-		return newinput;
+		return null;
 	}
 
 	/**
