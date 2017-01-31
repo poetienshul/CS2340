@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7badf4bc-ac74-44b1-91c9-2da0fe1be82b" name="Default" comment="" />
+    <list default="true" id="7badf4bc-ac74-44b1-91c9-2da0fe1be82b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +123,7 @@
       </map>
     </option>
     <push-targets>
-      <push-target-info repo="$PROJECT_DIR$" source="ethan" target-remote="origin" target-branch="master" />
+      <push-target-info repo="$PROJECT_DIR$" source="ethan" target-remote="origin" target-branch="ethan" />
     </push-targets>
   </component>
   <component name="GradleLocalSettings">
@@ -622,7 +624,14 @@
       <option name="project" value="LOCAL" />
       <updated>1485830276270</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Committing files&#10;">
+      <created>1485830345940</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1485830345940</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
